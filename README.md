@@ -4,7 +4,7 @@ App Lanterna 🔦
 
 ## 📌 Sobre este Projeto
 
-Aplicativo desenvolvido usando Sensor de Movimento para ligar a lanterna do celular com React Native. Nesta primeira versão o app contem um simbolo do Palmeiras,que ao ser clicado liga a lanterna do celular, e muda a imagem do simbolo por uma tela branca com o simbolo em branco, além disso, a laterna também se liga ao "chacoalhar" o celular.
+Aplicativo desenvolvido usando Sensor de Movimento para ligar a lanterna do celular com React Native. Nesta primeira versão o app contém um simbolo do Palmeiras que ao ser clicado liga a lanterna do celular, e muda a imagem do simbolo por uma tela branca com o simbolo em branco, além disso, a lanterna também se liga ao "chacoalhar" o celular
 
 ## 💡 Por quê?
 
